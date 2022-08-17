@@ -7,5 +7,9 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 The company is looking at prospective properties to buy to enter the market. You are required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
+## Submission
+- [assignment.ipynb](https://github.com/jawad360/epgp-course-assignment-advance-regression/blob/main/assignment.ipynb): Python file for building the model
+- [Subjective Questions.pdf](https://github.com/jawad360/epgp-course-assignment-advance-regression/blob/main/Subjective%20Questions.pdf): Subject question answers
+
 ## Contact
-Created by [@jawad360] - feel free to contact me!
+Created by [@jawad360](https://github.com/jawad360) - feel free to contact me!
